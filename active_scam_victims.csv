@@ -1,0 +1,1188 @@
+id,fraud_probability,amount_usd,scam_indicators
+972810,0.9766470710703814,181.48,AI-generated scam attempt | High fraud probability | New merchant
+759904,0.9600248520919612,38.21,AI-generated scam attempt | High fraud probability | New merchant
+904089,0.959194939472733,27.6,AI-generated scam attempt | High fraud probability | New merchant
+883645,0.951626062265316,562.58,High fraud probability | New merchant | Transfer exceeds 70% of balance
+936544,0.9479526457732332,40.41,AI-generated scam attempt | High fraud probability | New merchant
+873377,0.9469915465191494,582.62,High fraud probability | New merchant | Transfer exceeds 70% of balance
+943360,0.9456785679431394,465.37,High fraud probability | New merchant | Transfer exceeds 70% of balance
+936447,0.9444729897819016,8.35,AI-generated scam attempt | High fraud probability | New merchant
+807061,0.943804144328206,524.78,High fraud probability | New merchant | Transfer exceeds 70% of balance
+930959,0.9429138494355734,612.85,High fraud probability | New merchant | Transfer exceeds 70% of balance
+788263,0.9387185710507208,532.54,High fraud probability | New merchant | Transfer exceeds 70% of balance
+921328,0.9383375363724632,53.68,AI-generated scam attempt | High fraud probability
+934136,0.9372989080428228,524.78,High fraud probability | New merchant | Transfer exceeds 70% of balance
+960881,0.9371650946739714,646.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+716459,0.9360164773074872,953.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+887235,0.935728023968272,641.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+856746,0.9333995726604224,28.34,AI-generated scam attempt | High fraud probability | New merchant
+930311,0.9318457510403232,49.53,AI-generated scam attempt | High fraud probability
+981227,0.9286614597808348,335.73,High fraud probability | New merchant | Transfer exceeds 70% of balance
+917917,0.9275478252819334,651.5,High fraud probability | New merchant | Transfer exceeds 70% of balance
+794407,0.9254323012438976,576.56,High fraud probability | New merchant | Transfer exceeds 70% of balance
+902045,0.9225207526031596,582.51,AI-generated scam attempt | High fraud probability | New merchant
+755277,0.9209854414943648,942.25,AI-generated scam attempt | High fraud probability | New merchant
+704424,0.920440752226721,839.18,High fraud probability | New merchant | Transfer exceeds 70% of balance
+931989,0.9196576016227072,663.33,High fraud probability | New merchant | Transfer exceeds 70% of balance
+947285,0.9180191991437764,43.36,AI-generated scam attempt | High fraud probability | New merchant
+702705,0.9172679064396948,619.27,High fraud probability | New merchant | Transfer exceeds 70% of balance
+711220,0.91333174662939,9.95,AI-generated scam attempt | High fraud probability | New merchant
+778075,0.9112738695763012,40.64,AI-generated scam attempt | High fraud probability
+733763,0.9112729553627378,543.94,High fraud probability | New merchant | Transfer exceeds 70% of balance
+933501,0.9107938112706354,839.18,High fraud probability | New merchant | Transfer exceeds 70% of balance
+919919,0.9097687264313288,41.69,AI-generated scam attempt | High fraud probability | New merchant
+799614,0.9097245044831148,141.33,AI-generated scam attempt | High fraud probability
+884807,0.9095320403968432,1023.04,High fraud probability | New merchant | Transfer exceeds 70% of balance
+970503,0.9086131540368472,564.85,High fraud probability | New merchant | Transfer exceeds 70% of balance
+915120,0.906450998360714,653.58,High fraud probability | New merchant | Transfer exceeds 70% of balance
+880967,0.90520543064835,44.2,AI-generated scam attempt | High fraud probability
+745888,0.9003583909286984,22.43,AI-generated scam attempt | High fraud probability | New merchant
+751312,0.8997158045183856,1276.26,High fraud probability | New merchant | Transfer exceeds 70% of balance
+833062,0.8978704548627856,611.84,High fraud probability | New merchant | Transfer exceeds 70% of balance
+829498,0.8966581709052582,1220.71,High fraud probability | New merchant | Transfer exceeds 70% of balance
+900448,0.8950387711678982,34.31,AI-generated scam attempt | High fraud probability | New merchant
+929657,0.8944086965789201,531.87,High fraud probability | New merchant | Transfer exceeds 70% of balance
+766694,0.8939056110033805,533.74,High fraud probability | New merchant | Transfer exceeds 70% of balance
+825282,0.8936856635640577,724.13,High fraud probability | New merchant | Transfer exceeds 70% of balance
+945487,0.893667971077161,21.21,AI-generated scam attempt | High fraud probability | New merchant
+753798,0.8908616959603388,802.56,High fraud probability | New merchant | Transfer exceeds 70% of balance
+704932,0.8906154621481039,874.05,High fraud probability | New merchant | Transfer exceeds 70% of balance
+810694,0.8887884103776507,26.57,AI-generated scam attempt | High fraud probability | New merchant
+949294,0.8884871221068251,586.07,High fraud probability | New merchant | Transfer exceeds 70% of balance
+874913,0.8873185178538866,936.95,High fraud probability | New merchant | Transfer exceeds 70% of balance
+717006,0.8850810206169382,33.76,AI-generated scam attempt | High fraud probability | New merchant
+944196,0.8845905163849902,489.09,High fraud probability | New merchant | Transfer exceeds 70% of balance
+745970,0.8845202960427716,145.93,AI-generated scam attempt | High fraud probability
+763792,0.8842054869143516,548.06,High fraud probability | New merchant | Transfer exceeds 70% of balance
+920812,0.8836723429094673,791.99,High fraud probability | New merchant | Transfer exceeds 70% of balance
+834362,0.8830516247918878,582.7,High fraud probability | New merchant | Transfer exceeds 70% of balance
+962242,0.8819660512955396,838.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+971593,0.8817687218648779,621.28,AI-generated scam attempt | High fraud probability
+777386,0.8799616776591777,874.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+768185,0.87905777247741,42.0,AI-generated scam attempt | High fraud probability
+715641,0.8783151656856587,935.34,High fraud probability | New merchant | Transfer exceeds 70% of balance
+818591,0.8770645660096855,672.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+785353,0.8759300607499267,787.94,High fraud probability | New merchant | Transfer exceeds 70% of balance
+931407,0.8736982321274236,582.62,High fraud probability | New merchant | Transfer exceeds 70% of balance
+707638,0.8735228660822869,691.42,High fraud probability | New merchant | Transfer exceeds 70% of balance
+808350,0.8725435435607379,916.95,High fraud probability | New merchant | Transfer exceeds 70% of balance
+840511,0.8701942496099826,564.85,High fraud probability | New merchant | Transfer exceeds 70% of balance
+984412,0.8693705548000696,740.61,High fraud probability | New merchant | Transfer exceeds 70% of balance
+744171,0.8679522896377445,13.77,AI-generated scam attempt | High fraud probability | New merchant
+785234,0.8656086896531611,857.56,High fraud probability | New merchant | Transfer exceeds 70% of balance
+800456,0.8655362407852835,1147.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+855988,0.8633998454493002,586.05,High fraud probability | New merchant | Transfer exceeds 70% of balance
+750569,0.8627312390845221,819.84,High fraud probability | New merchant | Transfer exceeds 70% of balance
+801606,0.8614677693849098,1064.47,AI-generated scam attempt | High fraud probability
+941661,0.8607048463202895,451.52,High fraud probability | New merchant | Transfer exceeds 70% of balance
+780578,0.8605950670796123,1064.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+979723,0.8596327355205589,40.41,AI-generated scam attempt | High fraud probability
+874787,0.8589514460164679,204.9,AI-generated scam attempt | High fraud probability | New merchant
+901816,0.8565416076911577,692.14,High fraud probability | New merchant | Transfer exceeds 70% of balance
+999513,0.8559930364052445,874.05,High fraud probability | New merchant | Transfer exceeds 70% of balance
+794307,0.8550703215143912,45.84,AI-generated scam attempt | High fraud probability
+946109,0.8546637478846898,576.14,High fraud probability | New merchant | Transfer exceeds 70% of balance
+793324,0.8529654894086951,431.5,High fraud probability | New merchant | Transfer exceeds 70% of balance
+819950,0.8527046741384183,1041.25,High fraud probability | New merchant | Transfer exceeds 70% of balance
+772435,0.8525223258998207,727.35,High fraud probability | New merchant | Transfer exceeds 70% of balance
+988376,0.8515486726298833,693.14,High fraud probability | New merchant | Transfer exceeds 70% of balance
+771009,0.8507266157401223,598.55,High fraud probability | New merchant | Transfer exceeds 70% of balance
+994865,0.8501302661784227,994.88,High fraud probability | New merchant | Transfer exceeds 70% of balance
+809072,0.8471565434740584,855.46,High fraud probability | New merchant | Transfer exceeds 70% of balance
+742705,0.8460768388325808,1111.62,High fraud probability | New merchant | Transfer exceeds 70% of balance
+892367,0.8435462956985756,607.78,High fraud probability | New merchant | Transfer exceeds 70% of balance
+731631,0.8423330153041338,2091.52,High fraud probability | New merchant | Transfer exceeds 70% of balance
+958710,0.8397837166840436,674.34,High fraud probability | New merchant | Transfer exceeds 70% of balance
+714442,0.8379460123235728,874.05,High fraud probability | New merchant | Transfer exceeds 70% of balance
+882615,0.8369633273688621,582.62,High fraud probability | New merchant | Transfer exceeds 70% of balance
+843179,0.8357925054385242,8.07,AI-generated scam attempt | High fraud probability
+811855,0.8342094173938921,656.61,High fraud probability | New merchant | Transfer exceeds 70% of balance
+987612,0.833991958912032,544.14,High fraud probability | New merchant | Transfer exceeds 70% of balance
+834581,0.8330448795054112,431.97,AI-generated scam attempt | High fraud probability | New merchant
+742880,0.8297888124395495,5.04,AI-generated scam attempt | High fraud probability
+957890,0.8292417750844777,1229.32,High fraud probability | New merchant | Transfer exceeds 70% of balance
+741672,0.8276101961011832,723.68,High fraud probability | New merchant | Transfer exceeds 70% of balance
+996410,0.8275091848530723,607.33,High fraud probability | New merchant | Transfer exceeds 70% of balance
+856898,0.8273056782549066,838.94,High fraud probability | New merchant | Transfer exceeds 70% of balance
+983858,0.8257917450509035,4.12,AI-generated scam attempt | High fraud probability
+704027,0.8254895918776238,1552.46,High fraud probability | New merchant | Transfer exceeds 70% of balance
+999242,0.8238830640617602,11.12,AI-generated scam attempt | High fraud probability | New merchant
+845485,0.8214227103653415,5.78,AI-generated scam attempt | High fraud probability | New merchant
+982344,0.8205690969697882,152.96,AI-generated scam attempt | High fraud probability
+886792,0.820185072393538,564.85,High fraud probability | New merchant | Transfer exceeds 70% of balance
+899488,0.8198926283361669,583.31,High fraud probability | New merchant | Transfer exceeds 70% of balance
+715269,0.8187372430295952,766.26,High fraud probability | New merchant | Transfer exceeds 70% of balance
+815831,0.8186965365278596,438.33,High fraud probability | New merchant | Transfer exceeds 70% of balance
+869610,0.8174511182311275,566.74,High fraud probability | New merchant | Transfer exceeds 70% of balance
+718200,0.8169304302609752,41.76,AI-generated scam attempt | High fraud probability
+856800,0.8163198071150248,793.09,High fraud probability | New merchant | Transfer exceeds 70% of balance
+715192,0.816267497065438,177.42,AI-generated scam attempt | High fraud probability
+954483,0.8156069343212432,1276.87,High fraud probability | New merchant | Transfer exceeds 70% of balance
+864590,0.8151388164765544,1787.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+999314,0.8143840805123926,43.0,AI-generated scam attempt | High fraud probability | New merchant
+898922,0.8133936110776347,531.5,High fraud probability | New merchant | Transfer exceeds 70% of balance
+871558,0.8133707411964625,14.95,AI-generated scam attempt | High fraud probability
+752089,0.8114266641810751,1051.87,High fraud probability | New merchant | Transfer exceeds 70% of balance
+933241,0.8113415977910569,55.84,AI-generated scam attempt | High fraud probability | New merchant
+996762,0.8107669203035925,6.71,AI-generated scam attempt | High fraud probability | New merchant
+900729,0.8093666593046898,953.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+723610,0.8093592041140564,557.81,High fraud probability | New merchant | Transfer exceeds 70% of balance
+706715,0.8089017114190709,35.49,AI-generated scam attempt | High fraud probability
+912339,0.8083524688007678,35.49,AI-generated scam attempt | High fraud probability
+898509,0.8077279807346058,766.26,High fraud probability | New merchant | Transfer exceeds 70% of balance
+897939,0.80695920791737,604.23,High fraud probability | New merchant | Transfer exceeds 70% of balance
+847817,0.8069258401370623,35.01,AI-generated scam attempt | High fraud probability | New merchant
+833935,0.8045269794083104,17.23,AI-generated scam attempt | High fraud probability
+762731,0.803819888170163,562.64,High fraud probability | New merchant | Transfer exceeds 70% of balance
+951082,0.8033844091193947,16.49,AI-generated scam attempt | High fraud probability
+751585,0.8027963248317146,478.42,High fraud probability | New merchant | Transfer exceeds 70% of balance
+702269,0.802568606685651,23.98,AI-generated scam attempt | High fraud probability | New merchant
+752261,0.8004677913174512,2754.94,High fraud probability | New merchant | Transfer exceeds 70% of balance
+718861,0.8001432072907724,7.45,AI-generated scam attempt | High fraud probability
+739114,0.80010911570855,18.76,AI-generated scam attempt | High fraud probability
+771996,0.7979533460654588,489.91,High fraud probability | New merchant | Transfer exceeds 70% of balance
+880171,0.7946798802253742,787.34,High fraud probability | New merchant | Transfer exceeds 70% of balance
+721472,0.7931882432902613,489.92,High fraud probability | New merchant | Transfer exceeds 70% of balance
+743435,0.7921660760938487,1259.87,High fraud probability | New merchant | Transfer exceeds 70% of balance
+935829,0.7918771219857943,45.58,AI-generated scam attempt | High fraud probability | New merchant
+735280,0.7907771327284641,1269.75,High fraud probability | New merchant | Transfer exceeds 70% of balance
+978794,0.7906747058975984,651.5,AI-generated scam attempt | High fraud probability
+938922,0.7886116574615442,2754.94,High fraud probability | New merchant | Transfer exceeds 70% of balance
+996016,0.7859981258953517,945.36,High fraud probability | New merchant | Transfer exceeds 70% of balance
+929532,0.7844438770455906,642.59,AI-generated scam attempt | High fraud probability | New merchant
+940223,0.7827657079221535,813.86,High fraud probability | New merchant | Transfer exceeds 70% of balance
+982673,0.7811399407630601,1688.42,High fraud probability | New merchant | Transfer exceeds 70% of balance
+977000,0.7809760801549686,533.84,High fraud probability | New merchant | Transfer exceeds 70% of balance
+931665,0.780941994380281,31.37,AI-generated scam attempt | High fraud probability | New merchant
+998852,0.7802940836021637,958.88,High fraud probability | New merchant | Transfer exceeds 70% of balance
+866623,0.7791305473607649,45.54,AI-generated scam attempt | High fraud probability
+784137,0.7785714575450032,690.33,High fraud probability | New merchant | Transfer exceeds 70% of balance
+904151,0.7776919363612563,22.73,AI-generated scam attempt | High fraud probability | New merchant
+711023,0.7742006908521957,772.72,High fraud probability | New merchant | Transfer exceeds 70% of balance
+928090,0.7730748526436128,1274.39,High fraud probability | New merchant | Transfer exceeds 70% of balance
+946785,0.7709547672211992,767.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+895446,0.7688377459615588,582.62,High fraud probability | New merchant | Transfer exceeds 70% of balance
+886495,0.7683687281239299,8.73,AI-generated scam attempt | High fraud probability
+874495,0.766083378386548,576.56,High fraud probability | New merchant | Transfer exceeds 70% of balance
+957421,0.7657020114334876,1064.63,High fraud probability | New merchant | Transfer exceeds 70% of balance
+755224,0.7654864386702124,17.42,AI-generated scam attempt | High fraud probability | New merchant
+920383,0.7645049154565516,14.25,AI-generated scam attempt | High fraud probability
+751757,0.7638507176467729,646.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+896333,0.7638253207005627,756.49,High fraud probability | New merchant | Transfer exceeds 70% of balance
+721191,0.7638136456502642,874.05,High fraud probability | New merchant | Transfer exceeds 70% of balance
+803645,0.7616541666200345,788.56,High fraud probability | New merchant | Transfer exceeds 70% of balance
+719295,0.7613419143191661,716.96,High fraud probability | New merchant | Transfer exceeds 70% of balance
+825065,0.7612816332371167,923.21,High fraud probability | New merchant | Transfer exceeds 70% of balance
+833915,0.760845162016864,857.56,High fraud probability | New merchant | Transfer exceeds 70% of balance
+891394,0.7603976790144187,289.75,AI-generated scam attempt | High fraud probability
+997506,0.7594729731841232,48.91,AI-generated scam attempt | High fraud probability | New merchant
+784084,0.7594608058546973,1229.03,High fraud probability | New merchant | Transfer exceeds 70% of balance
+725917,0.7592250884534124,469.96,High fraud probability | New merchant | Transfer exceeds 70% of balance
+949888,0.7567361035538659,12.36,AI-generated scam attempt | High fraud probability | New merchant
+759538,0.7560005974920706,47.06,AI-generated scam attempt | High fraud probability
+876201,0.7550776002575208,456.36,High fraud probability | New merchant | Transfer exceeds 70% of balance
+761494,0.7522597114199822,1259.87,High fraud probability | New merchant | Transfer exceeds 70% of balance
+869871,0.7513144909612707,786.66,High fraud probability | New merchant | Transfer exceeds 70% of balance
+753601,0.7501326965466407,598.91,High fraud probability | New merchant | Transfer exceeds 70% of balance
+949478,0.7491637548569224,482.98,High fraud probability | New merchant | Transfer exceeds 70% of balance
+924850,0.7488207251443575,1694.19,High fraud probability | New merchant | Transfer exceeds 70% of balance
+885950,0.7459389596353333,8.22,AI-generated scam attempt | High fraud probability | New merchant
+801935,0.7453985423111413,14.54,AI-generated scam attempt | High fraud probability
+749770,0.7448457809836553,17.5,AI-generated scam attempt | High fraud probability
+826766,0.7444792505841237,632.74,High fraud probability | New merchant | Transfer exceeds 70% of balance
+969638,0.7442650384495555,1252.16,High fraud probability | New merchant | Transfer exceeds 70% of balance
+935193,0.7437109859394901,955.57,High fraud probability | New merchant | Transfer exceeds 70% of balance
+963139,0.7426732001673041,33.38,AI-generated scam attempt | High fraud probability
+989859,0.742319079224925,1229.03,High fraud probability | New merchant | Transfer exceeds 70% of balance
+700828,0.7408901470551775,671.16,High fraud probability | New merchant | Transfer exceeds 70% of balance
+908974,0.7407696777336183,21.49,AI-generated scam attempt | High fraud probability
+719038,0.7402990922662893,21.06,AI-generated scam attempt | High fraud probability | New merchant
+714407,0.7397471123821643,651.5,High fraud probability | New merchant | Transfer exceeds 70% of balance
+868341,0.7390091450465489,652.24,High fraud probability | New merchant | Transfer exceeds 70% of balance
+768853,0.7387066286952662,522.54,High fraud probability | New merchant | Transfer exceeds 70% of balance
+794500,0.7382234074450935,21.68,AI-generated scam attempt | High fraud probability
+810959,0.7381081421196979,728.86,High fraud probability | New merchant | Transfer exceeds 70% of balance
+847745,0.737364640008282,11.3,AI-generated scam attempt | High fraud probability
+869516,0.7354884199330551,24.28,AI-generated scam attempt | High fraud probability | New merchant
+725331,0.7354500874873654,22.9,AI-generated scam attempt | High fraud probability
+706583,0.7352591162938725,994.95,High fraud probability | New merchant | Transfer exceeds 70% of balance
+823723,0.7350948251695351,13.37,AI-generated scam attempt | High fraud probability
+958078,0.734368563316353,779.09,High fraud probability | New merchant | Transfer exceeds 70% of balance
+849337,0.7342762591702128,6.66,AI-generated scam attempt | High fraud probability | New merchant
+748451,0.732559389800821,548.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+929053,0.7324557868191703,1044.2,High fraud probability | New merchant | Transfer exceeds 70% of balance
+904320,0.7287027167549524,938.91,High fraud probability | New merchant | Transfer exceeds 70% of balance
+940383,0.7274226377195154,24.55,AI-generated scam attempt | High fraud probability
+884306,0.7265376052904301,723.68,High fraud probability | New merchant | Transfer exceeds 70% of balance
+862541,0.7262827392642792,1104.04,High fraud probability | New merchant | Transfer exceeds 70% of balance
+847887,0.7262252230280027,513.01,High fraud probability | New merchant | Transfer exceeds 70% of balance
+755619,0.7236851301850876,582.7,High fraud probability | New merchant | Transfer exceeds 70% of balance
+830770,0.7234984400820785,534.1,High fraud probability | New merchant | Transfer exceeds 70% of balance
+727737,0.718979817756197,1027.49,High fraud probability | New merchant | Transfer exceeds 70% of balance
+790726,0.7182416371803186,21.6,AI-generated scam attempt | High fraud probability | New merchant
+797120,0.7171356439535664,6.28,AI-generated scam attempt | High fraud probability
+715083,0.7167491767226568,557.41,High fraud probability | New merchant | Transfer exceeds 70% of balance
+884282,0.7167470162985196,724.67,High fraud probability | New merchant | Transfer exceeds 70% of balance
+831634,0.7132335242901222,582.7,High fraud probability | New merchant | Transfer exceeds 70% of balance
+943161,0.7127452861539766,1124.06,High fraud probability | New merchant | Transfer exceeds 70% of balance
+733924,0.7109310295551953,576.94,High fraud probability | New merchant | Transfer exceeds 70% of balance
+965842,0.7106693548871935,723.68,High fraud probability | New merchant | Transfer exceeds 70% of balance
+946551,0.7104917629854545,23.34,AI-generated scam attempt | High fraud probability | New merchant
+746622,0.7093049669235816,76.25,AI-generated scam attempt | High fraud probability | New merchant
+917378,0.7088975909827268,524.82,High fraud probability | New merchant | Transfer exceeds 70% of balance
+772871,0.7086151958808661,1064.15,High fraud probability | New merchant | Transfer exceeds 70% of balance
+746241,0.7080961770440644,940.02,High fraud probability | New merchant | Transfer exceeds 70% of balance
+741780,0.7070877294914986,22.09,AI-generated scam attempt | High fraud probability | New merchant
+803637,0.7066312647031056,7.41,AI-generated scam attempt | High fraud probability | New merchant
+767578,0.7062882350407754,576.14,High fraud probability | New merchant | Transfer exceeds 70% of balance
+880352,0.7059040714063084,723.68,High fraud probability | New merchant | Transfer exceeds 70% of balance
+841385,0.7054919923238377,22.17,AI-generated scam attempt | High fraud probability | New merchant
+795094,0.7054066968060756,24.4,AI-generated scam attempt | High fraud probability
+777976,0.7031601917585125,26.53,AI-generated scam attempt | High fraud probability
+858707,0.7025981517288384,1271.75,High fraud probability | New merchant | Transfer exceeds 70% of balance
+959602,0.7024261773335947,521.1,High fraud probability | New merchant | Transfer exceeds 70% of balance
+736000,0.7022733229798049,58.51,AI-generated scam attempt | High fraud probability | New merchant
+941387,0.7016199794812706,15.16,AI-generated scam attempt | High fraud probability
+711871,0.7007667809779698,8.98,AI-generated scam attempt | High fraud probability | New merchant
+808507,0.7004059483040153,516.12,High fraud probability | New merchant | Transfer exceeds 70% of balance
+984182,0.6992450751784743,31.0,AI-generated scam attempt
+887893,0.695010933120238,6.22,AI-generated scam attempt
+794829,0.6939288882706685,44.65,AI-generated scam attempt | New merchant
+944504,0.6890279626053865,13.03,AI-generated scam attempt | New merchant
+890489,0.6873019174420765,9.14,AI-generated scam attempt | New merchant
+874375,0.6782555931795956,44.31,AI-generated scam attempt | New merchant
+957533,0.6762434757508996,36.5,AI-generated scam attempt
+817809,0.6734550058650218,19.69,AI-generated scam attempt | New merchant
+942454,0.6704313880580517,33.11,AI-generated scam attempt
+927834,0.6673810880935029,46.97,AI-generated scam attempt
+899558,0.6619148710797869,125.74,AI-generated scam attempt | New merchant
+899764,0.6547598468431136,22.72,AI-generated scam attempt
+855150,0.6543163169106282,12.15,AI-generated scam attempt
+946735,0.648814021229105,32.48,AI-generated scam attempt
+839453,0.6441430276206502,4.49,AI-generated scam attempt
+913520,0.6431993861231198,23.98,AI-generated scam attempt | New merchant
+977472,0.6411446423691176,16.49,AI-generated scam attempt | New merchant
+908797,0.6400951949239091,813.32,AI-generated scam attempt
+721215,0.6366202291556662,26.2,AI-generated scam attempt | New merchant
+766324,0.6321386595706987,35.62,AI-generated scam attempt | New merchant
+932604,0.6264691435565501,46.65,AI-generated scam attempt
+786819,0.6222679282011885,71.82,AI-generated scam attempt | New merchant
+753444,0.6207809844267457,8.55,AI-generated scam attempt | New merchant
+979313,0.6202678018963459,775.94,AI-generated scam attempt | New merchant | Transfer exceeds 70% of balance
+794256,0.6201691672453016,21.45,AI-generated scam attempt
+855804,0.6191538357983273,19.9,AI-generated scam attempt | New merchant
+761986,0.6173039576557738,127.83,AI-generated scam attempt | New merchant
+835442,0.6161595624908685,9.22,AI-generated scam attempt
+735888,0.6141977977502234,1003.61,AI-generated scam attempt | Transfer exceeds 70% of balance
+874837,0.6099217394770476,24.35,AI-generated scam attempt
+772558,0.6098969294419486,91.64,AI-generated scam attempt
+737238,0.6091907735664926,23.05,AI-generated scam attempt | New merchant
+953240,0.6062695329260298,39.25,AI-generated scam attempt
+990190,0.6062161128737525,9.89,AI-generated scam attempt | New merchant
+800337,0.6055258712534898,29.72,AI-generated scam attempt | New merchant
+931499,0.6047191461678597,18.76,AI-generated scam attempt | New merchant
+752500,0.6041321945341346,71.9,AI-generated scam attempt | New merchant
+889501,0.6035486444556811,24.8,AI-generated scam attempt | New merchant
+831611,0.5977952185594276,24.14,AI-generated scam attempt
+813250,0.5960337462281553,1271.75,AI-generated scam attempt | Transfer exceeds 70% of balance
+794473,0.5929722315297801,32.39,AI-generated scam attempt | New merchant
+848157,0.5911741041668183,12.62,AI-generated scam attempt | New merchant
+954378,0.5893980086041186,8.55,AI-generated scam attempt
+975351,0.5885869968066209,41.94,AI-generated scam attempt
+937607,0.588042096379819,65.23,AI-generated scam attempt
+954492,0.5874000589449655,17.31,AI-generated scam attempt
+923850,0.5866823757397822,29.02,AI-generated scam attempt
+909427,0.5818736116146943,21.27,AI-generated scam attempt | New merchant
+779099,0.5797763673331934,11.21,AI-generated scam attempt
+805512,0.5794290362475607,40.45,AI-generated scam attempt
+808996,0.5774617473450874,16.11,AI-generated scam attempt
+941940,0.5772925113433801,27.65,AI-generated scam attempt
+929183,0.575222535860969,28.94,AI-generated scam attempt
+808483,0.5746399893251075,27.53,AI-generated scam attempt
+861363,0.5707073495192,27.52,AI-generated scam attempt | New merchant
+761866,0.5678400861648236,20.85,AI-generated scam attempt
+744526,0.5662996868171891,456.29,AI-generated scam attempt
+848632,0.5628975902529675,42.0,AI-generated scam attempt
+745300,0.5603479917848487,31.85,AI-generated scam attempt | New merchant
+923723,0.5562378685219452,24.45,AI-generated scam attempt
+906600,0.5559859770424581,8.97,AI-generated scam attempt
+785067,0.5536036588621631,42.41,AI-generated scam attempt
+724114,0.553448465299842,31.16,AI-generated scam attempt
+895710,0.5521271323800689,14.39,AI-generated scam attempt | New merchant
+807676,0.5503344303529771,25.88,AI-generated scam attempt
+876365,0.5479431599224541,25.39,AI-generated scam attempt
+896259,0.5474934822478437,21.48,AI-generated scam attempt
+973930,0.5472262199766248,8.42,AI-generated scam attempt | New merchant
+829516,0.5461640540367018,86.4,AI-generated scam attempt | New merchant
+874842,0.5421197828784617,110.99,AI-generated scam attempt
+726548,0.5414924217454876,33.97,AI-generated scam attempt
+904899,0.541434900386928,33.6,AI-generated scam attempt | New merchant
+878994,0.5398403643433057,9.09,AI-generated scam attempt
+999419,0.5373306525279279,49.28,AI-generated scam attempt | New merchant
+739469,0.5369672731177588,12.37,AI-generated scam attempt | New merchant
+919007,0.5331633891416773,9.17,AI-generated scam attempt
+742742,0.529597691625625,17.42,AI-generated scam attempt
+772743,0.5283855495902442,49.14,AI-generated scam attempt
+932630,0.5260031100643573,35.56,AI-generated scam attempt | New merchant
+791612,0.5239493758146623,29.98,AI-generated scam attempt | New merchant
+772815,0.5239356622988153,52.02,AI-generated scam attempt
+841185,0.5235752327207757,612.75,AI-generated scam attempt
+809195,0.5194688124517768,20.47,AI-generated scam attempt
+939330,0.5174323610264353,5.91,AI-generated scam attempt
+727244,0.5155546430290577,41.19,AI-generated scam attempt
+934964,0.5134908089841976,32.22,AI-generated scam attempt
+764662,0.5124807228415942,18.43,AI-generated scam attempt
+720302,0.5123632821677551,42.26,AI-generated scam attempt
+868512,0.5112587800954972,19.87,AI-generated scam attempt
+854004,0.509715396030999,21.24,AI-generated scam attempt
+832855,0.5089082289851986,24.93,AI-generated scam attempt
+839366,0.5058791876263767,761.98,AI-generated scam attempt | New merchant
+765655,0.5046148388749007,97.03,AI-generated scam attempt
+955427,0.5034379477707777,12.62,AI-generated scam attempt
+816101,0.5028947670041596,39.63,AI-generated scam attempt | New merchant
+817796,0.5021621646670085,51.8,AI-generated scam attempt | New merchant
+813791,0.5010263107256417,10.64,AI-generated scam attempt
+762879,0.497624608357758,54.93,AI-generated scam attempt
+863056,0.4972063633534641,49.44,AI-generated scam attempt
+847462,0.4966977455999229,44.72,AI-generated scam attempt
+769809,0.4946532048710549,177.35,AI-generated scam attempt | New merchant
+942478,0.4937198576931167,566.76,AI-generated scam attempt
+874782,0.4925244227872815,21.72,AI-generated scam attempt
+745324,0.4904817709321903,17.62,AI-generated scam attempt
+896006,0.4863506184806109,18.23,AI-generated scam attempt
+834885,0.4859642789616846,13.41,AI-generated scam attempt
+823704,0.4839696082406168,488.9,AI-generated scam attempt | Transfer exceeds 70% of balance
+769502,0.4835058531788802,51.62,AI-generated scam attempt
+807957,0.4825171037896693,29.71,AI-generated scam attempt
+762752,0.4807692327054911,28.12,AI-generated scam attempt | New merchant
+903995,0.4787132990722624,441.65,AI-generated scam attempt
+863424,0.4769449398131988,24.19,AI-generated scam attempt
+946141,0.4764306695461222,11.5,AI-generated scam attempt
+943759,0.4754745488492037,38.61,AI-generated scam attempt
+741990,0.4705964341021851,8.97,AI-generated scam attempt
+817482,0.4694442466792008,19.74,AI-generated scam attempt
+752844,0.4689753246255062,11.92,AI-generated scam attempt
+751333,0.4680214371677171,4.91,AI-generated scam attempt
+842579,0.4679155077556773,20.31,AI-generated scam attempt
+879780,0.4676282569010965,305.24,AI-generated scam attempt
+989395,0.4614539452740867,50.08,AI-generated scam attempt
+897236,0.4614063642513757,30.37,AI-generated scam attempt | New merchant
+709481,0.4601426695195127,88.24,AI-generated scam attempt
+936760,0.458908480071523,16.15,AI-generated scam attempt | New merchant
+828398,0.4568549705185751,44.11,AI-generated scam attempt
+974386,0.4547889344721492,30.4,AI-generated scam attempt
+714043,0.4546705613334424,33.18,AI-generated scam attempt
+887696,0.4542060449726765,31.9,AI-generated scam attempt
+794770,0.4528755828478985,55.94,AI-generated scam attempt | New merchant
+794042,0.4527905531001736,247.42,AI-generated scam attempt
+791184,0.4523484447475095,42.84,AI-generated scam attempt
+926634,0.4511233215423105,52.03,AI-generated scam attempt
+933179,0.4507087920551717,129.79,AI-generated scam attempt
+785029,0.4504397346167957,806.43,AI-generated scam attempt | Transfer exceeds 70% of balance
+870244,0.4475586540929903,39.7,AI-generated scam attempt | New merchant
+762666,0.4471496546300439,11.59,AI-generated scam attempt
+838783,0.4467045775094223,30.51,AI-generated scam attempt
+922945,0.4465809237885791,21.99,AI-generated scam attempt | New merchant
+975102,0.4432820127611678,14.99,AI-generated scam attempt
+864574,0.4411968114932324,10.88,AI-generated scam attempt | New merchant
+968011,0.4382496199900779,16.61,AI-generated scam attempt
+869784,0.4376677960906827,17.14,AI-generated scam attempt
+884016,0.4365681244726459,4.88,AI-generated scam attempt
+999234,0.4359529791291337,7.26,AI-generated scam attempt
+809687,0.4350180840710064,15.87,AI-generated scam attempt
+940077,0.4344647939955521,25.67,AI-generated scam attempt | New merchant
+831605,0.4336281526191365,38.33,AI-generated scam attempt
+828252,0.4329000788153512,52.19,AI-generated scam attempt
+965359,0.4276270621839061,576.14,AI-generated scam attempt | Transfer exceeds 70% of balance
+832503,0.4229577508020386,874.34,AI-generated scam attempt | New merchant | Transfer exceeds 70% of balance
+961774,0.422907582472972,34.85,AI-generated scam attempt
+928451,0.4225724412571721,44.89,AI-generated scam attempt
+720608,0.4224619540039436,20.83,AI-generated scam attempt
+930088,0.4206497264394868,611.84,AI-generated scam attempt
+973148,0.419255482685107,40.44,AI-generated scam attempt
+708472,0.4191266564711201,31.26,AI-generated scam attempt
+751049,0.4181517399460424,110.42,AI-generated scam attempt
+970272,0.4176547145167745,7.22,AI-generated scam attempt
+827989,0.4169215835453146,20.15,AI-generated scam attempt
+715850,0.4168737513387723,46.14,AI-generated scam attempt
+986893,0.4147411887366724,609.61,AI-generated scam attempt
+782577,0.4145249202292197,11.04,AI-generated scam attempt
+892234,0.414335596876213,16.78,AI-generated scam attempt
+929075,0.4140485739123056,18.34,AI-generated scam attempt
+725374,0.4139512051945883,813.88,AI-generated scam attempt | Transfer exceeds 70% of balance
+931941,0.4111636699276224,32.12,AI-generated scam attempt
+999441,0.4110876156032435,76.65,AI-generated scam attempt
+754785,0.4102376681969755,10.98,AI-generated scam attempt
+930182,0.409867401082381,40.23,AI-generated scam attempt
+974885,0.4077385571913495,58.67,AI-generated scam attempt
+991523,0.4070233210900217,33.1,AI-generated scam attempt
+904545,0.4049550997741639,5.91,AI-generated scam attempt
+759290,0.4047589193995706,6.98,AI-generated scam attempt
+895330,0.4047223117624285,54.56,AI-generated scam attempt
+931088,0.403193527771338,33.56,AI-generated scam attempt
+858103,0.4006426157112993,18.63,AI-generated scam attempt
+841763,0.3998007892131646,17.23,AI-generated scam attempt | New merchant
+887301,0.3993719738420687,34.44,AI-generated scam attempt
+745890,0.3988298404756811,23.98,AI-generated scam attempt
+857374,0.3979410803092966,41.01,AI-generated scam attempt
+791437,0.3977635431765589,12.68,AI-generated scam attempt
+986142,0.3964657431828862,13.51,AI-generated scam attempt
+808410,0.3963101616672752,728.86,AI-generated scam attempt
+869614,0.3961935656979643,32.83,AI-generated scam attempt
+962327,0.3959745346134243,21.49,AI-generated scam attempt
+957564,0.3958705504590438,42.43,AI-generated scam attempt
+762281,0.3947335456809436,34.19,AI-generated scam attempt
+723079,0.3930803564874213,15.02,AI-generated scam attempt | New merchant
+774053,0.3928926232583999,40.43,AI-generated scam attempt
+890173,0.3911571423941319,541.04,AI-generated scam attempt
+951435,0.3910446715893917,24.44,AI-generated scam attempt
+926973,0.3878719220351662,28.95,AI-generated scam attempt
+943383,0.3865176820166709,4.41,AI-generated scam attempt | New merchant
+766966,0.38447251016809,26.32,AI-generated scam attempt
+910565,0.3839287250934799,23.95,AI-generated scam attempt
+827625,0.3829581599686986,4.49,AI-generated scam attempt
+803246,0.3828449378985503,49.03,AI-generated scam attempt
+771240,0.3826597549616072,55.93,AI-generated scam attempt | New merchant
+819059,0.3819319061203419,27.36,AI-generated scam attempt
+879668,0.381516678807532,52.34,AI-generated scam attempt
+926403,0.3808208914146558,3048.61,AI-generated scam attempt | Transfer exceeds 70% of balance
+716199,0.3803891547924755,31.28,AI-generated scam attempt
+859417,0.3783778129655266,23.18,AI-generated scam attempt | New merchant
+996728,0.3756926827989154,43.94,AI-generated scam attempt
+783797,0.3756363194845453,25.52,AI-generated scam attempt
+886837,0.3754192160186272,31.3,AI-generated scam attempt
+913722,0.3711031162538197,28.94,AI-generated scam attempt
+879127,0.3707602097685125,36.7,AI-generated scam attempt
+757208,0.3699848542156714,16.23,AI-generated scam attempt | New merchant
+899288,0.3693078104320147,1060.4,AI-generated scam attempt
+954908,0.3689467714557476,34.31,AI-generated scam attempt | New merchant
+733861,0.3674120181307655,24.94,AI-generated scam attempt
+892062,0.3670528224819613,24.81,AI-generated scam attempt
+754461,0.3666116532545792,18.81,AI-generated scam attempt
+891144,0.3659503488112862,20.32,AI-generated scam attempt | New merchant
+728253,0.3635835751075491,26.54,AI-generated scam attempt
+950932,0.3633638399599705,44.72,AI-generated scam attempt
+802277,0.3632561138332763,8.8,AI-generated scam attempt
+828867,0.3630974712119661,22.01,AI-generated scam attempt
+848443,0.3620632059586744,18.42,AI-generated scam attempt
+873091,0.3620525749845369,43.5,AI-generated scam attempt
+922619,0.3593632122471896,12.29,AI-generated scam attempt
+962974,0.3589836139519443,9.982,AI-generated scam attempt
+757186,0.3587033590712499,55.78,AI-generated scam attempt
+950663,0.3571619821461991,874.15,AI-generated scam attempt | Transfer exceeds 70% of balance
+747389,0.3570744245717989,32.12,AI-generated scam attempt
+804821,0.3568313805799835,28.76,AI-generated scam attempt
+845158,0.3557924166789679,723.68,AI-generated scam attempt
+747778,0.3544257194345526,19.74,AI-generated scam attempt
+797868,0.3542449716588459,19.92,AI-generated scam attempt
+900236,0.3531626929891811,33.94,AI-generated scam attempt
+812148,0.3516574950453483,619.27,AI-generated scam attempt
+974481,0.3507098402476208,10.87,AI-generated scam attempt
+915088,0.3504220477678534,566.76,AI-generated scam attempt
+897175,0.3500568375659267,30.94,AI-generated scam attempt
+773092,0.3480605812647905,25.47,AI-generated scam attempt
+846226,0.3473094775129612,13.51,AI-generated scam attempt
+970583,0.346442220508887,26.32,AI-generated scam attempt
+982119,0.3455060656772641,28.33,AI-generated scam attempt
+827935,0.3443213010890694,46.43,AI-generated scam attempt
+974280,0.3434479508734142,11.59,AI-generated scam attempt
+724768,0.3429450588645129,23.79,AI-generated scam attempt
+864429,0.3428768280997044,35.74,AI-generated scam attempt
+995874,0.338569853576284,954.74,AI-generated scam attempt | Transfer exceeds 70% of balance
+704785,0.3373206973135464,24.67,AI-generated scam attempt
+779265,0.3362220142811823,70.2,AI-generated scam attempt
+790757,0.334949923537646,22.06,AI-generated scam attempt
+947820,0.3325387173709141,22.08,AI-generated scam attempt
+920019,0.3314763962171907,8.42,AI-generated scam attempt
+706219,0.3312286993798813,522.54,AI-generated scam attempt | New merchant
+987491,0.3311471300081983,40.44,AI-generated scam attempt | New merchant
+707928,0.3306842877371558,15.24,AI-generated scam attempt
+775555,0.3304520769577372,16.84,AI-generated scam attempt
+911376,0.3299386330643021,9.15,AI-generated scam attempt
+706869,0.3298958971569151,5.59,AI-generated scam attempt | New merchant
+812907,0.3290949703166398,26.51,AI-generated scam attempt
+896544,0.3283118081360016,20.37,AI-generated scam attempt
+900200,0.3275474971806087,35.04,AI-generated scam attempt
+874159,0.3269773994107517,29.85,AI-generated scam attempt
+869066,0.3260366862261465,50.23,AI-generated scam attempt
+964308,0.3257881392386402,25.48,AI-generated scam attempt
+833564,0.3251251241189395,33.37,AI-generated scam attempt
+885201,0.3230811070914797,9.89,AI-generated scam attempt
+705419,0.3224510971987602,35.53,AI-generated scam attempt
+842195,0.321144125965678,23.54,AI-generated scam attempt
+773457,0.3205738737473516,723.95,AI-generated scam attempt | Transfer exceeds 70% of balance
+762531,0.3200178132674689,26.42,AI-generated scam attempt
+943461,0.3196019167686005,11.51,AI-generated scam attempt
+861319,0.3194762301608625,64.18,AI-generated scam attempt
+892976,0.3192945917046218,523.9,AI-generated scam attempt
+740834,0.3190315583521302,9.82,AI-generated scam attempt
+725950,0.3185454751154827,12.7,AI-generated scam attempt
+939008,0.31837863037695,24.31,AI-generated scam attempt
+745273,0.3166603432815381,14.16,AI-generated scam attempt
+721445,0.3160063382580945,27.59,AI-generated scam attempt
+860426,0.31565927562913,55.67,AI-generated scam attempt
+718602,0.3140571001268126,26.21,AI-generated scam attempt
+922471,0.3127074174846037,14.68,AI-generated scam attempt | New merchant
+813033,0.3126711384944902,5.98,AI-generated scam attempt | New merchant
+882599,0.3113390578686104,44.72,AI-generated scam attempt | New merchant
+825170,0.3112323393976068,34.67,AI-generated scam attempt
+724190,0.3104380760276336,24.36,AI-generated scam attempt
+880149,0.3102617784300567,24.17,AI-generated scam attempt
+789384,0.3099804609414691,28.09,AI-generated scam attempt
+855540,0.3079582085014455,563.14,AI-generated scam attempt
+958128,0.3079499567247609,35.73,AI-generated scam attempt
+983041,0.3062230328529125,14.08,AI-generated scam attempt
+853461,0.3057435634550369,12.37,AI-generated scam attempt | New merchant
+950444,0.303696135559415,38.01,AI-generated scam attempt
+887073,0.3036807433915014,6.26,AI-generated scam attempt | New merchant
+707164,0.3033202923679794,50.61,AI-generated scam attempt
+730319,0.3021800732223023,24.54,AI-generated scam attempt
+743316,0.301854959721288,39.6,AI-generated scam attempt
+882602,0.3015042858344273,19.45,AI-generated scam attempt
+980168,0.3013749697583888,8.8,AI-generated scam attempt
+939366,0.3009220986128764,22.54,AI-generated scam attempt
+903866,0.3007052767607727,17.1,AI-generated scam attempt | New merchant
+796512,0.3004656675053333,24.34,AI-generated scam attempt
+720708,0.2979281566123357,21.95,AI-generated scam attempt | New merchant
+701326,0.2970733394175653,6.89,AI-generated scam attempt
+913910,0.2970545428518991,39.6,AI-generated scam attempt
+941106,0.2966215107866582,36.48,AI-generated scam attempt
+763040,0.2964751856821446,9.47,AI-generated scam attempt | New merchant
+710417,0.2962656459478479,51.63,AI-generated scam attempt
+744806,0.2960279380286472,41.94,AI-generated scam attempt
+809603,0.2953304578978888,57.82,AI-generated scam attempt
+850635,0.2951614742625126,478.42,AI-generated scam attempt
+720220,0.2942433319021684,12.48,AI-generated scam attempt
+713165,0.2932655767023896,33.6,AI-generated scam attempt | New merchant
+908803,0.2927259455917008,31.36,AI-generated scam attempt
+993253,0.2926989950645587,18.06,AI-generated scam attempt
+841340,0.2918857214303558,24.45,AI-generated scam attempt | New merchant
+916838,0.2899755184299934,26.05,AI-generated scam attempt
+813233,0.28785884692191,24.51,AI-generated scam attempt | New merchant
+887429,0.2878273006487267,23.48,AI-generated scam attempt | New merchant
+819202,0.2875133677151978,17.61,AI-generated scam attempt
+837766,0.2868874385174853,30.78,AI-generated scam attempt
+787464,0.2866510626213721,14.77,AI-generated scam attempt
+863082,0.2864228958752129,19.54,AI-generated scam attempt
+980449,0.2864195377010786,32.69,AI-generated scam attempt | New merchant
+869220,0.2863744437350392,51.47,AI-generated scam attempt
+860666,0.2863480351469826,37.47,AI-generated scam attempt
+968176,0.2854267950231022,10.96,AI-generated scam attempt
+809529,0.2852767836713153,10.08,AI-generated scam attempt
+804578,0.2846237555512319,17.19,AI-generated scam attempt
+857149,0.2844186057330705,20.16,AI-generated scam attempt
+733887,0.2839903268651285,10.03,AI-generated scam attempt
+792282,0.2838904830410855,590.38,AI-generated scam attempt | Transfer exceeds 70% of balance
+790320,0.2836896378971159,44.14,AI-generated scam attempt | New merchant
+941971,0.2836436842283918,25.26,AI-generated scam attempt
+863970,0.2835604580620773,25.98,AI-generated scam attempt
+781837,0.282999270305618,11.2,AI-generated scam attempt
+721252,0.2829803317764485,60.57,AI-generated scam attempt
+994475,0.2826932398864575,473.04,AI-generated scam attempt
+813749,0.2825657065757737,8.35,AI-generated scam attempt
+813029,0.2820315680188104,29.04,AI-generated scam attempt
+930744,0.2811920754363536,53.66,AI-generated scam attempt | New merchant
+938900,0.2810613283254284,27.19,AI-generated scam attempt
+997110,0.2805807103261061,6.69,AI-generated scam attempt
+971126,0.2805418168045838,8.24,AI-generated scam attempt
+808352,0.2804089996788208,607.28,AI-generated scam attempt
+932985,0.2795807746289013,28.42,AI-generated scam attempt
+741836,0.279295732043058,46.95,AI-generated scam attempt | New merchant
+905965,0.2784582774035697,24.31,AI-generated scam attempt
+976033,0.2778243545156699,24.35,AI-generated scam attempt
+801437,0.2769456942657249,46.59,AI-generated scam attempt
+948358,0.2769279604763112,38.13,AI-generated scam attempt
+947871,0.2764474248977869,34.67,AI-generated scam attempt
+714479,0.2754356687343068,26.03,AI-generated scam attempt
+775535,0.2751508625602554,14.62,AI-generated scam attempt
+811322,0.2750225902308948,42.84,AI-generated scam attempt | New merchant
+937384,0.2729634385743544,38.62,AI-generated scam attempt
+924498,0.2725609506240238,13.16,AI-generated scam attempt
+815577,0.27142650848606,8.25,AI-generated scam attempt
+917977,0.2708999777274873,11.89,AI-generated scam attempt
+736223,0.269897031570815,37.75,AI-generated scam attempt
+890609,0.2681526428461714,11.87,AI-generated scam attempt
+967831,0.2679840273858478,22.9,AI-generated scam attempt
+969723,0.2679027353944626,27.18,AI-generated scam attempt
+864596,0.2664264969321941,21.27,AI-generated scam attempt
+748093,0.266212378073388,103.91,AI-generated scam attempt
+842857,0.2661387020081323,22.5,AI-generated scam attempt | New merchant
+719546,0.2657401527991493,7.19,AI-generated scam attempt
+961916,0.2655200891416013,24.24,AI-generated scam attempt
+916019,0.2651471526677676,31.59,AI-generated scam attempt
+815736,0.2649886362691306,34.3,AI-generated scam attempt
+955482,0.2637154604827896,48.33,AI-generated scam attempt
+888502,0.2632034298963731,15.03,AI-generated scam attempt
+704834,0.263107566901952,25.11,AI-generated scam attempt
+751269,0.2623327716649024,13.37,AI-generated scam attempt
+793070,0.2618513866415318,29.46,AI-generated scam attempt
+755971,0.2618220198403527,8.61,AI-generated scam attempt
+703525,0.2615731373850178,23.87,AI-generated scam attempt
+784370,0.2614415228743094,15.03,AI-generated scam attempt | New merchant
+774538,0.2608429197147084,76.25,AI-generated scam attempt
+994694,0.2606479236276002,20.41,AI-generated scam attempt
+829946,0.2594437884718355,25.6,AI-generated scam attempt
+719895,0.2592716175243237,23.36,AI-generated scam attempt
+761901,0.2592682548550213,32.74,AI-generated scam attempt
+906893,0.2579959957946565,18.31,AI-generated scam attempt
+863047,0.2563661834264296,22.21,AI-generated scam attempt
+848118,0.2563297455829739,39.36,AI-generated scam attempt
+756335,0.2563172027689902,14.58,AI-generated scam attempt
+924720,0.2560453894333509,32.16,AI-generated scam attempt
+774843,0.255545544221092,127.37,AI-generated scam attempt
+876669,0.2552727450504452,22.87,AI-generated scam attempt
+900607,0.2544389402153987,8.88,AI-generated scam attempt
+716154,0.254075267084247,43.11,AI-generated scam attempt
+965273,0.2519864019000684,49.6,AI-generated scam attempt
+895827,0.2516892647060574,46.64,AI-generated scam attempt
+874773,0.2508952437472058,25.95,AI-generated scam attempt
+871960,0.2501182400996322,26.67,AI-generated scam attempt
+820519,0.2495424686848913,14.33,AI-generated scam attempt
+751491,0.2494705548159364,646.84,AI-generated scam attempt | Transfer exceeds 70% of balance
+803535,0.2490039722538857,41.19,AI-generated scam attempt
+809435,0.2486093447187008,50.44,AI-generated scam attempt | New merchant
+808032,0.2484403502038527,6.31,AI-generated scam attempt
+842705,0.2478376638011867,46.67,AI-generated scam attempt
+738086,0.2476718022847864,22.24,AI-generated scam attempt
+939374,0.2475466020924366,478.59,AI-generated scam attempt | New merchant
+862425,0.2456759328286819,55.74,AI-generated scam attempt
+990937,0.2455863935943978,38.39,AI-generated scam attempt
+921493,0.2449020282314794,32.32,AI-generated scam attempt
+937804,0.2447839955922076,43.64,AI-generated scam attempt
+988166,0.2443542509763629,21.48,AI-generated scam attempt
+834471,0.2427824119923438,35.53,AI-generated scam attempt
+717137,0.2420210571612612,133.39,AI-generated scam attempt
+796523,0.2419976583265122,16.42,AI-generated scam attempt
+714711,0.2417323625868906,11.61,AI-generated scam attempt
+868108,0.2399860653541253,695.97,AI-generated scam attempt | Transfer exceeds 70% of balance
+999149,0.2399081392703105,27.81,AI-generated scam attempt
+809765,0.2396139950814426,24.19,AI-generated scam attempt
+872629,0.2391207786247864,22.93,AI-generated scam attempt | New merchant
+982709,0.2387131641474222,15.45,AI-generated scam attempt
+797692,0.2386160991834658,8.82,AI-generated scam attempt
+763206,0.238389999452688,29.98,AI-generated scam attempt
+707360,0.238252216416845,9.61,AI-generated scam attempt
+824236,0.2376079287884335,31.22,AI-generated scam attempt | New merchant
+739188,0.2372169192158575,18.33,AI-generated scam attempt
+920871,0.2369379838113745,35.63,AI-generated scam attempt
+726101,0.2368552113298075,33.85,AI-generated scam attempt
+860506,0.2364505625944835,18.68,AI-generated scam attempt
+986093,0.2362175471197334,30.94,AI-generated scam attempt
+897034,0.2357906633272388,20.63,AI-generated scam attempt
+812420,0.2350888559389716,3.61,AI-generated scam attempt | New merchant
+700211,0.2348519687963459,473.03,AI-generated scam attempt
+723299,0.2345824247778754,22.12,AI-generated scam attempt
+769148,0.2345322956864587,7.15,AI-generated scam attempt
+943517,0.2342274027464687,31.31,AI-generated scam attempt
+735034,0.2341879151083032,53.97,AI-generated scam attempt
+709831,0.2340590286625298,223.2,AI-generated scam attempt | New merchant
+720391,0.2335894283043906,506.02,AI-generated scam attempt | Transfer exceeds 70% of balance
+836137,0.2325374189417275,20.11,AI-generated scam attempt
+956974,0.2321358500351253,27.26,AI-generated scam attempt
+708710,0.2318613548104248,109.47,AI-generated scam attempt
+727155,0.231388886244316,729.03,AI-generated scam attempt
+747860,0.2313817080427015,38.05,AI-generated scam attempt
+743215,0.2306012407352476,6.86,AI-generated scam attempt
+799971,0.2291849299378409,22.03,AI-generated scam attempt
+741950,0.228632732499541,22.06,AI-generated scam attempt
+929196,0.2260262203838552,52.63,AI-generated scam attempt
+765471,0.2251468078454946,531.97,AI-generated scam attempt
+784132,0.2243956917235577,14.4,AI-generated scam attempt
+919297,0.2237890010022491,9.57,AI-generated scam attempt
+777821,0.2235985851208691,52.97,AI-generated scam attempt
+902765,0.2231734760017873,471.42,AI-generated scam attempt
+856397,0.2230534933481046,42.0,AI-generated scam attempt
+988790,0.2230240614466628,33.3,AI-generated scam attempt
+998714,0.2230098531147839,23.19,AI-generated scam attempt
+946885,0.2228616942631268,10.38,AI-generated scam attempt
+862716,0.2227385461656809,31.37,AI-generated scam attempt
+807643,0.2221914190546015,5.43,AI-generated scam attempt
+962466,0.220481666289186,57.27,AI-generated scam attempt
+790272,0.2202997678782576,30.85,AI-generated scam attempt
+849522,0.2199606196187636,27.21,AI-generated scam attempt | New merchant
+802202,0.2198459828436129,20.89,AI-generated scam attempt
+843020,0.2185126371113685,33.2,AI-generated scam attempt
+831253,0.218085692754376,24.13,AI-generated scam attempt
+782440,0.217414857154033,30.79,AI-generated scam attempt
+906889,0.2166146460845033,46.36,AI-generated scam attempt
+845497,0.216424895856013,29.02,AI-generated scam attempt | New merchant
+972097,0.2152741331259455,44.24,AI-generated scam attempt
+810944,0.2147558795477398,13.86,AI-generated scam attempt
+914137,0.2144421927337403,12.84,AI-generated scam attempt | New merchant
+816458,0.2142898125833533,22.74,AI-generated scam attempt
+770754,0.2139133260124271,32.35,AI-generated scam attempt
+931400,0.2133460970327197,31.7,AI-generated scam attempt
+966400,0.2127710451598309,21.68,AI-generated scam attempt | New merchant
+864160,0.2126230170286431,37.25,AI-generated scam attempt
+725925,0.2125050721263396,9.94,AI-generated scam attempt
+743599,0.2124347843795258,22.44,AI-generated scam attempt
+910688,0.2123933821442273,22.94,AI-generated scam attempt
+934316,0.2122412824187234,42.21,AI-generated scam attempt
+912909,0.2120493257917682,21.45,AI-generated scam attempt
+846867,0.21173451872039,74.25,AI-generated scam attempt
+923199,0.2108972496019662,14.65,AI-generated scam attempt | New merchant
+982526,0.2106059490387738,39.8,AI-generated scam attempt
+713645,0.2105233434990386,9.63,AI-generated scam attempt
+866011,0.2103238421579613,46.97,AI-generated scam attempt
+761910,0.2101788955046007,152.55,AI-generated scam attempt
+866556,0.2093694428399269,41.9,AI-generated scam attempt
+920874,0.2087908987071903,17.4,AI-generated scam attempt
+810540,0.2083085119598989,17.6,AI-generated scam attempt
+956319,0.2081186162648226,22.21,AI-generated scam attempt
+956580,0.2079904437021507,26.05,AI-generated scam attempt
+779275,0.207756909516206,28.69,AI-generated scam attempt
+870299,0.2072737138829711,29.89,AI-generated scam attempt
+933734,0.2070207479692635,36.56,AI-generated scam attempt | New merchant
+765605,0.2067132419193998,17.76,AI-generated scam attempt
+986431,0.2061507791339245,35.45,AI-generated scam attempt
+983545,0.2051211985531108,34.37,AI-generated scam attempt
+725370,0.204792943723846,25.82,AI-generated scam attempt
+872929,0.2044953204256088,30.18,AI-generated scam attempt
+973494,0.2044100253185176,22.6,AI-generated scam attempt
+850461,0.2039279535670763,2.18,AI-generated scam attempt
+971638,0.2038959926409634,10.4,AI-generated scam attempt
+829677,0.2037841901359055,27.51,AI-generated scam attempt | New merchant
+928172,0.2029190293452051,35.56,AI-generated scam attempt
+801959,0.2027486446992055,32.56,AI-generated scam attempt
+936166,0.2025116202685455,14.94,AI-generated scam attempt
+718914,0.2018011345025437,62.07,AI-generated scam attempt
+933654,0.201557658614054,31.18,AI-generated scam attempt
+854670,0.2015406614887963,40.05,AI-generated scam attempt
+760824,0.2012119207937936,24.34,AI-generated scam attempt | New merchant
+939226,0.2011619634139581,6.34,AI-generated scam attempt
+749430,0.2010946546537775,23.99,AI-generated scam attempt
+717379,0.2004138889759118,6.81,AI-generated scam attempt
+949479,0.1996503454265127,6.14,AI-generated scam attempt
+943096,0.1994148007881794,71.27,AI-generated scam attempt
+993239,0.1992292889848425,8.58,AI-generated scam attempt | New merchant
+902419,0.198749586158943,22.98,AI-generated scam attempt
+953032,0.1986333831962434,21.36,AI-generated scam attempt
+847747,0.1975887228264605,10.97,AI-generated scam attempt | New merchant
+860665,0.1973794903676498,8.57,AI-generated scam attempt
+882996,0.1965080270962456,17.27,AI-generated scam attempt
+743991,0.196066856048537,6.19,AI-generated scam attempt
+960693,0.1958572451174473,26.51,AI-generated scam attempt
+811614,0.1956637405773798,27.6,AI-generated scam attempt
+847693,0.1947539044935598,6.95,AI-generated scam attempt
+879393,0.1945670263210949,23.01,AI-generated scam attempt
+976782,0.1942770752751465,621.28,AI-generated scam attempt
+773279,0.1940280739984145,8.29,AI-generated scam attempt
+759452,0.1940192258664226,9.99,AI-generated scam attempt
+796215,0.1939577875084643,22.75,AI-generated scam attempt
+737723,0.1930797737988798,506.74,AI-generated scam attempt | Transfer exceeds 70% of balance
+710368,0.1927977971896678,4.47,AI-generated scam attempt
+805640,0.1914459203396513,44.36,AI-generated scam attempt
+760059,0.1909408447950405,11.58,AI-generated scam attempt
+981701,0.1905732848686535,9.22,AI-generated scam attempt
+907432,0.1903013761531788,24.83,AI-generated scam attempt
+781059,0.1900906620043763,4.78,AI-generated scam attempt
+988854,0.189425124509875,12.24,AI-generated scam attempt | New merchant
+724909,0.1890767856441613,5.18,AI-generated scam attempt
+900252,0.188680070676437,43.5,AI-generated scam attempt
+993294,0.1886103625270263,50.25,AI-generated scam attempt
+806469,0.1873398581693241,23.05,AI-generated scam attempt
+829632,0.1869692655882905,8.61,AI-generated scam attempt
+807310,0.1869641111150613,62.42,AI-generated scam attempt | New merchant
+826559,0.186378237707204,285.78,AI-generated scam attempt
+960900,0.1863156046856755,5.61,AI-generated scam attempt
+892149,0.1863035907105486,6.86,AI-generated scam attempt
+903504,0.1861200392235153,52.63,AI-generated scam attempt | New merchant
+935316,0.1849399907000972,19.82,AI-generated scam attempt
+820888,0.1848763440623025,6.43,AI-generated scam attempt
+942036,0.1848495394227589,17.46,AI-generated scam attempt
+751188,0.1847620396313554,13.94,AI-generated scam attempt
+839430,0.1837487556625911,121.26,AI-generated scam attempt
+924239,0.1836760293859271,53.47,AI-generated scam attempt
+857406,0.1833956986062694,5.55,AI-generated scam attempt
+724719,0.1827464936024801,29.92,AI-generated scam attempt | New merchant
+906530,0.1825099578113459,1276.87,AI-generated scam attempt | New merchant
+756262,0.1823949862051377,10.87,AI-generated scam attempt
+736712,0.1822289922780264,47.91,AI-generated scam attempt | New merchant
+915130,0.1822178688863571,25.88,AI-generated scam attempt
+764438,0.182118323062372,30.78,AI-generated scam attempt
+744627,0.1818712951730602,7.17,AI-generated scam attempt
+891298,0.1815066261303925,27.5,AI-generated scam attempt
+852207,0.1811319690259825,26.21,AI-generated scam attempt | New merchant
+848839,0.1811138709284824,12.84,AI-generated scam attempt
+731561,0.1809368653573549,16.94,AI-generated scam attempt
+930361,0.1809272652976189,38.02,AI-generated scam attempt
+874143,0.1803271921293683,472.36,AI-generated scam attempt | Transfer exceeds 70% of balance
+853002,0.1799906735832467,55.69,AI-generated scam attempt
+907667,0.1799235705518417,13.16,AI-generated scam attempt
+878697,0.1797971873762635,818.42,AI-generated scam attempt | Transfer exceeds 70% of balance
+978035,0.179605176073724,35.64,AI-generated scam attempt
+880207,0.1793701786038603,25.08,AI-generated scam attempt
+955768,0.1792911200754329,16.83,AI-generated scam attempt
+963770,0.1787610398191109,19.9,AI-generated scam attempt
+908599,0.1787238154983037,33.06,AI-generated scam attempt
+753409,0.178534726480799,45.57,AI-generated scam attempt
+702572,0.1784646110183279,5.3,AI-generated scam attempt
+960322,0.1784514698148695,44.72,AI-generated scam attempt
+860456,0.1783482876736415,33.22,AI-generated scam attempt
+738268,0.1780043184507253,5.16,AI-generated scam attempt
+937887,0.1776929844310814,31.26,AI-generated scam attempt
+972165,0.177426276056317,21.29,AI-generated scam attempt
+733233,0.1772364830173344,19.47,AI-generated scam attempt
+965277,0.1769283338783208,31.38,AI-generated scam attempt
+771869,0.1765058645141252,71.94,AI-generated scam attempt
+935336,0.1756481094765824,35.68,AI-generated scam attempt
+785921,0.1755141953062048,9.51,AI-generated scam attempt
+840545,0.175407678240007,10.35,AI-generated scam attempt
+908140,0.1753375897123095,53.66,AI-generated scam attempt
+743676,0.174224258415049,18.75,AI-generated scam attempt
+806706,0.1741294198834041,14.58,AI-generated scam attempt | New merchant
+925127,0.1732595454475579,61.29,AI-generated scam attempt
+849663,0.1732167140179207,688.81,AI-generated scam attempt | Transfer exceeds 70% of balance
+980210,0.1730571077039869,35.53,AI-generated scam attempt
+772012,0.1722511917351882,23.05,AI-generated scam attempt
+895150,0.1718965146125421,11.41,AI-generated scam attempt
+727681,0.1717374015225622,16.5,AI-generated scam attempt
+842086,0.1716479513278393,42.65,AI-generated scam attempt | New merchant
+864386,0.1715307434552183,22.16,AI-generated scam attempt
+822839,0.1713603186144026,10.46,AI-generated scam attempt | New merchant
+772942,0.171278849036929,641.15,AI-generated scam attempt | New merchant
+851906,0.1701303619962192,16.84,AI-generated scam attempt
+700314,0.1701066769456208,23.98,AI-generated scam attempt
+981917,0.1698255606871466,41.38,AI-generated scam attempt
+783310,0.1687807082811749,27.93,AI-generated scam attempt
+896904,0.1686882234760953,13.11,AI-generated scam attempt
+712619,0.1679574040968328,60.41,AI-generated scam attempt | New merchant
+947316,0.1675004704452649,38.25,AI-generated scam attempt
+715290,0.1673936869335337,9.2,AI-generated scam attempt
+908412,0.1673301323230629,71.13,AI-generated scam attempt
+919579,0.167299488972907,44.76,AI-generated scam attempt
+704629,0.1671018865950152,38.09,AI-generated scam attempt
+802829,0.1669615035794899,24.74,AI-generated scam attempt
+758422,0.1667776927788941,37.09,AI-generated scam attempt | New merchant
+922566,0.1667309118920082,44.76,AI-generated scam attempt
+720152,0.166400107427823,49.91,AI-generated scam attempt
+741151,0.1663595052640488,20.51,AI-generated scam attempt
+953066,0.1663263538568708,50.43,AI-generated scam attempt
+980442,0.1661355002175608,30.47,AI-generated scam attempt
+860955,0.1657570637576265,20.3,AI-generated scam attempt
+858112,0.165536106845028,52.21,AI-generated scam attempt | New merchant
+999630,0.1654519250708309,23.45,AI-generated scam attempt
+908763,0.1648455195490623,17.66,AI-generated scam attempt
+961880,0.1642555979069239,17.23,AI-generated scam attempt
+944243,0.1637642748331929,37.68,AI-generated scam attempt
+720928,0.1637125187076418,36.28,AI-generated scam attempt
+984180,0.1633482844622131,49.08,AI-generated scam attempt
+897072,0.1632787496464059,24.41,AI-generated scam attempt
+806993,0.1630247375876163,71.9,AI-generated scam attempt
+722725,0.1622450949764532,31.5,AI-generated scam attempt
+763459,0.1619965909471442,52.03,AI-generated scam attempt
+863495,0.1614866290937258,12.24,AI-generated scam attempt
+888688,0.1612568523866767,12.24,AI-generated scam attempt
+777062,0.1612359849094168,6.41,AI-generated scam attempt
+808599,0.1608923308332516,25.26,AI-generated scam attempt
+933838,0.1608880291025337,29.11,AI-generated scam attempt
+854455,0.1606152380986528,32.29,AI-generated scam attempt
+778596,0.1603974111256629,26.55,AI-generated scam attempt
+827463,0.1598308457772487,31.66,AI-generated scam attempt
+878178,0.1597824573768285,30.71,AI-generated scam attempt
+934173,0.1596108301453762,21.73,AI-generated scam attempt
+761144,0.159340891002828,8.35,AI-generated scam attempt
+964913,0.1586867231025666,4.63,AI-generated scam attempt | New merchant
+986661,0.1584313176345701,4.35,AI-generated scam attempt
+969865,0.1579997510237842,22.54,AI-generated scam attempt
+894143,0.1578064273812231,30.2,AI-generated scam attempt
+703386,0.1576432310253586,18.76,AI-generated scam attempt
+735405,0.156718324062931,8.42,AI-generated scam attempt | New merchant
+871214,0.156556332399851,16.38,AI-generated scam attempt
+853908,0.156527808479359,31.29,AI-generated scam attempt
+914615,0.156251856564177,21.68,AI-generated scam attempt
+735580,0.1562460044686472,17.42,AI-generated scam attempt
+703360,0.1560825282962576,8.05,AI-generated scam attempt
+942532,0.1554599138981955,30.94,AI-generated scam attempt
+891011,0.1553640293134554,37.23,AI-generated scam attempt
+793883,0.1552548749922709,46.31,AI-generated scam attempt
+780813,0.1548238322945356,15.61,AI-generated scam attempt
+989257,0.1547278179902432,44.8,AI-generated scam attempt
+981597,0.1546748782692741,12.72,AI-generated scam attempt
+727665,0.1535099252494194,23.31,AI-generated scam attempt | New merchant
+710820,0.1529096438319227,4.35,AI-generated scam attempt
+854714,0.152642085852994,35.79,AI-generated scam attempt
+813847,0.1518682042255441,33.91,AI-generated scam attempt
+719363,0.1512393378654547,16.39,AI-generated scam attempt
+842543,0.1502940920540463,113.24,AI-generated scam attempt
+957058,0.1502483822351024,14.03,AI-generated scam attempt
+838075,0.1499727703346365,32.32,AI-generated scam attempt
+864064,0.1499314629456077,50.73,AI-generated scam attempt
+875277,0.1498126274547333,33.1,AI-generated scam attempt
+760042,0.1496377030914449,30.99,AI-generated scam attempt
+962417,0.1485452284978047,19.74,AI-generated scam attempt
+830472,0.1484048643284706,9.57,AI-generated scam attempt
+871645,0.1482961929389354,32.09,AI-generated scam attempt
+914473,0.1482294806218925,10.15,AI-generated scam attempt
+710831,0.1478006319514657,8.94,AI-generated scam attempt
+881627,0.1474095821905014,29.02,AI-generated scam attempt
+852044,0.1472902379995134,40.45,AI-generated scam attempt
+956488,0.1471886727555159,5.39,AI-generated scam attempt
+816405,0.1471377015842377,40.51,AI-generated scam attempt
+826648,0.1466911563886587,32.48,AI-generated scam attempt
+843889,0.1462289599113925,33.14,AI-generated scam attempt
+919650,0.1461638123448698,10.26,AI-generated scam attempt
+868279,0.1459422299161868,51.55,AI-generated scam attempt
+927579,0.1452088936675432,131.68,AI-generated scam attempt
+961010,0.1446682855121626,55.61,AI-generated scam attempt
+866961,0.1446655916428346,32.36,AI-generated scam attempt | New merchant
+721750,0.1443926641180206,24.83,AI-generated scam attempt
+901086,0.1443922353736476,17.42,AI-generated scam attempt
+717843,0.1443637028905154,27.21,AI-generated scam attempt
+980990,0.14426683456218,16.77,AI-generated scam attempt
+879390,0.1441217521783177,12.48,AI-generated scam attempt
+929765,0.1439584133323753,45.45,AI-generated scam attempt
+868537,0.1436031970067347,586.33,AI-generated scam attempt
+832959,0.1433994984330473,10.83,AI-generated scam attempt
+961305,0.1432251234475321,6.66,AI-generated scam attempt
+813871,0.1431328399578555,5.78,AI-generated scam attempt
+844169,0.1429997691943589,23.46,AI-generated scam attempt
+981132,0.1423437656880292,39.48,AI-generated scam attempt | New merchant
+847441,0.1419562434337304,16.29,AI-generated scam attempt
+702118,0.141887202905615,10.88,AI-generated scam attempt
+767917,0.1415390948226639,8.7,AI-generated scam attempt
+869785,0.1409983809321041,32.43,AI-generated scam attempt
+975655,0.1406047713763586,23.75,AI-generated scam attempt
+941024,0.1405447035919939,10.26,AI-generated scam attempt
+887971,0.1402218218742467,616.2,AI-generated scam attempt | Transfer exceeds 70% of balance
+905429,0.1401941247806553,43.23,AI-generated scam attempt
+971484,0.1399985255950062,439.52,AI-generated scam attempt
+739107,0.1397385349946288,16.53,AI-generated scam attempt
+873065,0.1394477796096883,28.33,AI-generated scam attempt
+738678,0.1390911454684381,58.37,AI-generated scam attempt
+872951,0.1384675397314379,43.22,AI-generated scam attempt | New merchant
+891771,0.1379378067500224,13.81,AI-generated scam attempt
+713335,0.1369834212287859,26.21,AI-generated scam attempt
+800276,0.135905508476186,32.72,AI-generated scam attempt
+924345,0.1357392681800399,22.92,AI-generated scam attempt
+842111,0.1353585705540383,6.94,AI-generated scam attempt
+916888,0.1348941808795088,22.68,AI-generated scam attempt
+910010,0.1346733151050348,49.16,AI-generated scam attempt
+771489,0.1346656265768605,55.94,AI-generated scam attempt
+736690,0.1344720491564064,71.08,AI-generated scam attempt | New merchant
+804506,0.1343675149688518,6.81,AI-generated scam attempt | New merchant
+709513,0.1343029394240747,5.99,AI-generated scam attempt
+859951,0.1339085803632443,49.36,AI-generated scam attempt
+929086,0.1338843319699323,12.27,AI-generated scam attempt
+704303,0.1337707319337591,4.63,AI-generated scam attempt
+983121,0.1335925394336607,607.78,AI-generated scam attempt
+810779,0.1326426931850524,621.14,AI-generated scam attempt | Transfer exceeds 70% of balance
+751562,0.1322547362305366,8.77,AI-generated scam attempt
+781325,0.1319339121427479,27.91,AI-generated scam attempt
+923329,0.1319304416277214,968.47,AI-generated scam attempt
+822848,0.1310134406259584,26.42,AI-generated scam attempt
+867368,0.1310010070526325,19.92,AI-generated scam attempt
+867295,0.1309949680041807,31.47,AI-generated scam attempt
+734221,0.1308391125682279,27.29,AI-generated scam attempt
+758996,0.1307912321834521,31.44,AI-generated scam attempt
+878704,0.1306197560955367,42.26,AI-generated scam attempt
+909249,0.1305499180511468,39.82,AI-generated scam attempt
+776807,0.1298697474746367,4.63,AI-generated scam attempt
+876793,0.1293796948413127,12.16,AI-generated scam attempt
+997927,0.1293033408800529,10.35,AI-generated scam attempt
+998354,0.1287788474476938,10.04,AI-generated scam attempt
+734858,0.1286570561738362,51.76,AI-generated scam attempt
+733879,0.1282975739182738,554.67,AI-generated scam attempt | Transfer exceeds 70% of balance
+902489,0.1276031962139844,5.67,AI-generated scam attempt
+859457,0.1274706878465571,42.3,AI-generated scam attempt
+932253,0.1272874843143668,13.47,AI-generated scam attempt
+799524,0.12717853900618,22.34,AI-generated scam attempt
+878843,0.1263187412574555,18.32,AI-generated scam attempt
+933066,0.1262982253984881,27.18,AI-generated scam attempt
+996972,0.1260284236528713,35.01,AI-generated scam attempt
+839788,0.1258449742819143,55.94,AI-generated scam attempt
+777910,0.1250000185737002,22.12,AI-generated scam attempt
+961576,0.1245962838187053,24.4,AI-generated scam attempt
+978271,0.124512812433621,47.06,AI-generated scam attempt
+982368,0.1243702695627914,24.81,AI-generated scam attempt | New merchant
+821511,0.1237336991884861,21.21,AI-generated scam attempt
+802154,0.1234631646881844,22.95,AI-generated scam attempt | New merchant
+829641,0.1230461673737433,42.3,AI-generated scam attempt
+912690,0.1229088643830037,7.69,AI-generated scam attempt
+848106,0.1225669620698513,6.91,AI-generated scam attempt | New merchant
+862208,0.1219307241819888,7.38,AI-generated scam attempt
+898985,0.1214648743437726,34.17,AI-generated scam attempt
+934114,0.1213588675892147,5.13,AI-generated scam attempt
+777651,0.1212522862445969,12.16,AI-generated scam attempt
+811125,0.121053932228359,7.36,AI-generated scam attempt
+776977,0.1208687762140306,18.39,AI-generated scam attempt | New merchant
+914069,0.1206221534034831,12.37,AI-generated scam attempt
+721868,0.1205656435820162,46.31,AI-generated scam attempt
+833300,0.1201441950961175,36.35,AI-generated scam attempt
+797649,0.1194999020323967,21.54,AI-generated scam attempt
+824122,0.1194377595733235,43.87,AI-generated scam attempt
+869830,0.1194315103794151,19.84,AI-generated scam attempt
+827365,0.1188462668164825,11.15,AI-generated scam attempt
+804098,0.1175733203454306,31.24,AI-generated scam attempt
+874121,0.1174710594803734,37.07,AI-generated scam attempt
+963951,0.1173438369204873,19.11,AI-generated scam attempt
+925411,0.1173372340095526,31.26,AI-generated scam attempt
+865123,0.1172548678994266,15.74,AI-generated scam attempt
+936924,0.1171918545447831,25.48,AI-generated scam attempt
+732616,0.1169471223606666,940.47,AI-generated scam attempt | Transfer exceeds 70% of balance
+713078,0.1167434138089416,15.45,AI-generated scam attempt
+756880,0.1165217683414995,43.54,AI-generated scam attempt
+778269,0.1165070269420282,62.13,AI-generated scam attempt
+853889,0.1163129704664478,16.27,AI-generated scam attempt | New merchant
+836021,0.1159302220451007,6.36,AI-generated scam attempt
+947281,0.1152356350663959,38.5,AI-generated scam attempt
+847866,0.1146443123277268,9.74,AI-generated scam attempt
+987629,0.1142749228115003,15.98,AI-generated scam attempt
+894231,0.1141323064159986,7.03,AI-generated scam attempt | New merchant
+921904,0.11404606570561,12.19,AI-generated scam attempt
+776929,0.1135907039558303,6.86,AI-generated scam attempt
+907544,0.1135330761872512,49.32,AI-generated scam attempt
+801490,0.1135328749450801,46.63,AI-generated scam attempt
+970428,0.1128129803078583,23.95,AI-generated scam attempt
+909717,0.1127906146315943,20.39,AI-generated scam attempt
+816468,0.112738485660713,28.05,AI-generated scam attempt | New merchant
+963834,0.1122570469266367,23.89,AI-generated scam attempt
+754766,0.1120720597411708,32.22,AI-generated scam attempt
+720154,0.1119281149699215,37.02,AI-generated scam attempt
+926759,0.1118806819861674,10.11,AI-generated scam attempt
+762373,0.1118348613781169,7.38,AI-generated scam attempt
+808079,0.1118291696928429,21.0,AI-generated scam attempt
+957915,0.1112615890297794,14.33,AI-generated scam attempt
+728239,0.1110559819515667,27.63,AI-generated scam attempt
+873147,0.110832765149573,19.81,AI-generated scam attempt
+750648,0.1104942164298025,39.25,AI-generated scam attempt
+816047,0.1104681433915601,14.39,AI-generated scam attempt
+772373,0.1103910159913221,12.07,AI-generated scam attempt
+937778,0.1092658421449672,43.94,AI-generated scam attempt
+724585,0.1090072145048446,26.52,AI-generated scam attempt
+762356,0.1082180780311793,43.11,AI-generated scam attempt
+742466,0.10796730318118,9.85,AI-generated scam attempt
+763157,0.1077942696870323,48.54,AI-generated scam attempt
+852491,0.1074738605693988,9.61,AI-generated scam attempt
+871996,0.1073217991885948,72.11,AI-generated scam attempt
+904685,0.1070362615145225,7.35,AI-generated scam attempt
+845135,0.1067598101276325,5.2,AI-generated scam attempt | New merchant
+887911,0.1065579529970944,50.43,AI-generated scam attempt
+900328,0.1064211620354423,53.67,AI-generated scam attempt
+992323,0.1063235998155386,39.36,AI-generated scam attempt
+966299,0.1060514998588931,12.68,AI-generated scam attempt
+903158,0.1048538761280268,651.5,AI-generated scam attempt
+865758,0.1048187424921585,20.47,AI-generated scam attempt
+720909,0.1039225267987043,25.73,AI-generated scam attempt
+945684,0.1038380152970654,9.71,AI-generated scam attempt
+877627,0.1038180790202183,52.63,AI-generated scam attempt
+768132,0.1030234515320088,26.55,AI-generated scam attempt
+958737,0.1018258527328132,9.15,AI-generated scam attempt
+813457,0.1017012833026987,27.93,AI-generated scam attempt | New merchant
+936141,0.1016623758150239,52.84,AI-generated scam attempt
+748277,0.1007931213152446,21.57,AI-generated scam attempt
+707789,0.1003330686837633,238.64,AI-generated scam attempt
+829202,0.1001892350428309,28.98,AI-generated scam attempt
+863577,0.1001451055578299,30.71,AI-generated scam attempt
+795434,0.0997144093311186,53.92,AI-generated scam attempt
+876383,0.0996169942907641,563.14,AI-generated scam attempt
+707350,0.0992007103788888,22.89,AI-generated scam attempt
+793243,0.0990057515529804,50.11,AI-generated scam attempt
+822213,0.0989913701567193,24.82,AI-generated scam attempt
+960782,0.0978284824360903,27.76,AI-generated scam attempt
+901425,0.0971589429569682,8.22,AI-generated scam attempt
+997521,0.0971389915983331,55.71,AI-generated scam attempt
+702052,0.0966039913230046,21.45,AI-generated scam attempt
+891774,0.0965197370804006,27.85,AI-generated scam attempt | New merchant
+841665,0.0961676798652874,23.59,AI-generated scam attempt
+999022,0.0959926767527486,24.45,AI-generated scam attempt
+833504,0.0950670319778431,431.97,AI-generated scam attempt
+924514,0.094953432404591,4.12,AI-generated scam attempt
+868710,0.0948809166387341,22.12,AI-generated scam attempt
+840935,0.0946812694695276,34.6,AI-generated scam attempt
+926763,0.0944293119973324,21.11,AI-generated scam attempt
+890628,0.0941922901925037,740.61,AI-generated scam attempt
+866064,0.0939245716914486,27.27,AI-generated scam attempt
+752140,0.0938624673233306,12.26,AI-generated scam attempt
+944159,0.0919220599420081,22.34,AI-generated scam attempt
+805750,0.0917527070183578,18.68,AI-generated scam attempt
+747303,0.0917111822720775,22.17,AI-generated scam attempt
+868116,0.0916907753285584,36.07,AI-generated scam attempt
+748481,0.0916236557631973,27.46,AI-generated scam attempt
+729791,0.0915933903017497,23.56,AI-generated scam attempt
+714552,0.0915511324033155,4.1,AI-generated scam attempt
+844590,0.0915253474181667,25.88,AI-generated scam attempt
+837058,0.0906700996638778,32.12,AI-generated scam attempt
+744402,0.0906152434230123,29.83,AI-generated scam attempt
+704730,0.0905489224622523,17.31,AI-generated scam attempt
+885536,0.0892774337321865,13.91,AI-generated scam attempt
+763087,0.089047558666585,33.36,AI-generated scam attempt
+977788,0.0886749813267002,24.32,AI-generated scam attempt
+940980,0.0886383690812053,11.06,AI-generated scam attempt
+906357,0.0876171336712424,12.72,AI-generated scam attempt
+759479,0.0873448022520425,8.94,AI-generated scam attempt
+810924,0.0861535154901109,35.49,AI-generated scam attempt
+834751,0.0859142524292478,27.21,AI-generated scam attempt
+913227,0.0858478084318768,51.47,AI-generated scam attempt
+883092,0.0858302132031717,26.67,AI-generated scam attempt
+834585,0.0857738678022045,31.5,AI-generated scam attempt
+788728,0.0852551960658296,45.71,AI-generated scam attempt
+744517,0.0852167523723982,12.71,AI-generated scam attempt
+946559,0.0835075704548756,13.8,AI-generated scam attempt
+861812,0.0834421096389921,21.39,AI-generated scam attempt
+771761,0.0831106037927843,17.23,AI-generated scam attempt
+937308,0.0818979245208799,7.58,AI-generated scam attempt
+988121,0.0818224472451866,41.21,AI-generated scam attempt
+769908,0.0812722726164958,456.74,AI-generated scam attempt | Transfer exceeds 70% of balance
+749047,0.0812169227043043,16.35,AI-generated scam attempt
+708730,0.0809389505831851,20.51,AI-generated scam attempt
+825232,0.0804031411136136,46.19,AI-generated scam attempt
+940143,0.0802978366210069,22.14,AI-generated scam attempt
+917846,0.079828769266547,22.46,AI-generated scam attempt
+976313,0.0796487289980051,29.05,AI-generated scam attempt
+934697,0.0794442307726903,3.02,AI-generated scam attempt
+892480,0.078668020870669,8.85,AI-generated scam attempt | New merchant
+746524,0.0786439785612569,14.68,AI-generated scam attempt
+978420,0.0784907435423753,37.0,AI-generated scam attempt
+857325,0.0780771975933328,17.03,AI-generated scam attempt
+913412,0.0765427285698212,25.48,AI-generated scam attempt
+959297,0.0764816290904882,8.42,AI-generated scam attempt
+860686,0.0763205447465978,35.85,AI-generated scam attempt
+971469,0.0759369223705149,52.61,AI-generated scam attempt
+819000,0.0759246692759567,23.57,AI-generated scam attempt
+823030,0.0747592915535604,19.88,AI-generated scam attempt
+837400,0.0734293383123481,10.08,AI-generated scam attempt
+782067,0.073400121848521,648.52,AI-generated scam attempt | Transfer exceeds 70% of balance
+982089,0.0728363568848475,32.69,AI-generated scam attempt
+912491,0.0726778979856175,5.59,AI-generated scam attempt
+801584,0.0717837548771923,55.94,AI-generated scam attempt
+814524,0.0716887396321259,26.51,AI-generated scam attempt
+816309,0.0715170931694283,33.92,AI-generated scam attempt
+713766,0.0707454875041627,31.24,AI-generated scam attempt
+713249,0.0705060593381154,55.37,AI-generated scam attempt
+785490,0.0703124098792326,22.25,AI-generated scam attempt
+806123,0.0700334731854083,43.3,AI-generated scam attempt
+864652,0.0693829497256168,25.32,AI-generated scam attempt
+776703,0.0688274742756598,24.35,AI-generated scam attempt
+926141,0.0675766232637753,20.19,AI-generated scam attempt
+848141,0.0668542678936494,809.15,AI-generated scam attempt
+999010,0.0667254988682456,51.87,AI-generated scam attempt
+841139,0.0634004875087144,36.81,AI-generated scam attempt
+813709,0.0633385112912039,682.72,AI-generated scam attempt | New merchant | Transfer exceeds 70% of balance
+770046,0.0615033751716888,23.91,AI-generated scam attempt
+773162,0.0613610605686988,59.19,AI-generated scam attempt
+940689,0.0595499129821328,46.73,AI-generated scam attempt
+740748,0.0591027257978345,51.44,AI-generated scam attempt
+754374,0.0588465863224114,37.47,AI-generated scam attempt
+707373,0.0584509065144625,37.09,AI-generated scam attempt
+955401,0.0578576820706746,30.78,AI-generated scam attempt
+873044,0.0562938929875996,23.31,AI-generated scam attempt
+817860,0.0547448113954128,8.78,AI-generated scam attempt
+736613,0.0538550102721556,71.61,AI-generated scam attempt
+769868,0.053739625593652,14.62,AI-generated scam attempt
+967526,0.0526859018977821,515.03,AI-generated scam attempt
+732501,0.0524343391491079,43.82,AI-generated scam attempt
+993010,0.0524193722076978,30.48,AI-generated scam attempt | New merchant
+883462,0.0515787745972157,52.04,AI-generated scam attempt
+872496,0.0513096359595788,45.99,AI-generated scam attempt
+888958,0.051137424757935,7.8,AI-generated scam attempt
+801558,0.050974313798857,19.71,AI-generated scam attempt
+799719,0.0479744518098663,13.92,AI-generated scam attempt
+995054,0.0479275632440305,439.52,AI-generated scam attempt
+977951,0.0478149305654018,17.71,AI-generated scam attempt
+895096,0.0476094393292153,32.36,AI-generated scam attempt
+917229,0.0455635286920674,31.64,AI-generated scam attempt
+860814,0.0443741786101989,456.26,AI-generated scam attempt
+875616,0.0442973314255152,26.65,AI-generated scam attempt
+962322,0.0440172343008657,44.72,AI-generated scam attempt
+777832,0.0371995568776446,663.33,AI-generated scam attempt
